@@ -1,2 +1,2 @@
 # forex_data
-Forx data
+Forex data
